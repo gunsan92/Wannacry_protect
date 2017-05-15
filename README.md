@@ -1,4 +1,4 @@
-# Wanacry_protect
+# Wannacry_protect
 wanacry protect script for windows
 
 # how to use
