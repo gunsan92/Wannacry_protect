@@ -1,6 +1,9 @@
 %1 mshta vbscript:CreateObject("Shell.Application").ShellExecute("cmd.exe","/c %~s0 ::","","runas",1)(window.close)&&exit
 @echo off 
 color 1f 
+echo =============================
+echo 坤腾ROM研发团队
+echo =============================
 title 关闭135,137,138,139,445 端口
 echo. 
 echo. 
